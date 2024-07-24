@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jazz en la Ciudad de México</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      text-align: center;
+    }
+    h2 {
+      font-size: 1.8em;
+    }
+    p {
+      font-size: 1.2em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Jazz en la Ciudad de México</h1>
+
+  <h2>Historia del Jazz en la Ciudad de México</h2>
+  <p>El jazz llegó a México a principios del siglo XX y encontró un terreno fértil en la Ciudad de México...</p>
+
+  <h2>Escena Actual</h2>
+  <p>Hoy en día, la Ciudad de México alberga una escena jazzística vibrante y diversa...</p>
+
+  <h2>Impacto Cultural</h2>
+  <p>El jazz no solo ha dejado una marca en el ámbito musical de la Ciudad de México, sino que también ha influido en otras áreas de la cultura...</p>
+
+</body>
+</html>

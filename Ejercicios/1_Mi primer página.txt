@@ -1,0 +1,94 @@
+<!-- En editar podemos agregar comentario en alternar comentario de línea  -->
+
+<!-- Tipo de documento  -->
+<!-- html: etiqueta principal, engloba toda la página, nada va fuera de esta etiqueta. -->
+<!DOCTYPE html>
+
+<!-- lang= "es" : lenguaje de la pagina-->
+<html lang="es">
+
+<!-- head: Configuraciones, que no se ven en el sitio -->
+<!-- conectar archivos, describir el sitio, poner tamaños -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- title: Titúlo de la pestaña de la página -->
+    <title>mi primera pagina :P </title>
+</head>
+
+<!-- body: Contenido visible de la página -->
+<!-- Aquí vamos a ocupar nuestro catálogo de etiquetas-->
+
+<body style="background-color: LightCoral;">
+
+    <!-- h1, h2, h3, ... tamaños -->
+    <h1> hola Li :) </h1>
+    <h2> hola Li :) </h2>
+    <h3> hola Li :) </h3>
+    <h4> hola Li :) </h4>
+    <h5> hola Li :) </h5>
+    <h6> hola Li :) </h6>
+
+    <!-- a: lincks -->
+    <a href="#gatito lenguita">
+        <h2> Gatito</h2>
+    </a>
+    
+    <!-- ul: lista en bullets -->
+    <ul>
+        <li>gatito colores</li>
+        <li>gatito lenguita</li>
+        <li>tecnochicuelas</li>
+    </ul>
+    
+    <!-- ul: lista numerada -->
+    <ol>
+        <li>gatito colores</li>
+        <li>gatito lenguita</li>
+        <li>tecnochicuelas</li>
+    </ol>
+
+    <!-- p:parrafo -->
+    <p>
+    <h1> <b>nos vemos el fin de <i>semana</i> ? </b> </h1>
+    </p>
+    
+    <img id="gatito colores" class="michis" width="400" height="600"
+        src="https://i.pinimg.com/236x/12/d7/fd/12d7fd385a0e3ecae0c4af25c3fa87e5.jpg" alt="Imagen gatito">
+
+    <p>
+    <h1> <i> vamos a comer y besarnos un poquito :3</i> </h1>
+    </p>
+    
+    <p>
+        <span style='font-size:50px;'>&#129325;</span>
+    </p>
+
+    <img id="gatito lenguita" class="michis" width="400" height="500" src="Imagenes/michi.PNG" alt="Imagen gati">
+    
+    <p>
+        <a href="https://tecnolochicas.mx/" target="_blank"> Tecnolochicas</a>
+    </p>
+
+    <p>
+        <a href="https://tecnolochicas.mx/" target="_blank">
+            <img id="tecnochicuelas" width="300" height="100"
+                src="https://tecnolochicas.mx/public/images/tecnolochicas-logo.png" alt="Tecnolochicas">
+        </a>
+    </p>
+
+    <p>
+        <a href="https://tecnolochicas.mx/" target="_blank">
+            <button>Muchuca aqui</button>
+        </a>
+    </p>
+
+</body>
+
+</html>
+
+
+<p>
+    Me <mark>gusta</mark> la <i>sandia</i> porque me da la <s>alegría</s> de mis <b>mascotas</b>.
+</p>
